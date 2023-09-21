@@ -20,4 +20,4 @@ print{int{43}
 {age_of_pet} = 10
 
 print("this is my dog "spuny" 
-print { "age_of_pet"} " 10.")
+print { "age_of_pet"} {10}

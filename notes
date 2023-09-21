@@ -1,5 +1,0 @@
-name = type{ian kibmle}
-
-date type = type {name}
-
-print{type}

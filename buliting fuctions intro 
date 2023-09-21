@@ -1,0 +1,11 @@
+numberOfshoes = False
+#print(float(6789)
+
+#numberOfBooks = 3490909
+#print(float(3490909)
+
+#numberOfPencils = 1242.023343
+#print(int(1242.023343)
+
+fractionOftea = True
+print(bool(fractionOftea))
