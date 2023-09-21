@@ -1,0 +1,11 @@
+type{}= print the data type wrapped in the round bracker
+type_Of_car = lambo
+car= type = type{type_of_car}
+print{car}
+
+# use a type function to print out the data type forn each line of code
+is_it_a_week_day = true
+{boolean}
+
+number_of_books = 18
+{integer}
