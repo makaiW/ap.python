@@ -1,6 +1,6 @@
 # convert the following datatypes into floats.
-12
-100 
+float{12}
+float {100}
 print{int{100/12}=
 print{floats {0.12}
 
@@ -8,8 +8,9 @@ print{floats {0.12}
 # convert the following floats into integers.
 {12.34}
 {23.33}
-print{intger{12+23}=
-print{float{35}}
+print{intger{23}
+num_one +int{numTwo}
+
 # modify the code below to print an integer number. 
 {num_one} = [20]
 {num_two} = {23.45}
