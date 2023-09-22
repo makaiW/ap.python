@@ -17,8 +17,8 @@ num_one +int{numTwo}
 print(20 + 23)
 print{int{43}
 # modify the following code below to 
-{name_of_pet} = "Spuny"
-{age_of_pet} = 10
+name_of_pet = "Spuny"
+age_of_pet = str{10}
 
 print("this is my dog "spuny" 
-print { "age_of_pet"} {10}
+print { "age_of_pet"} str{10}
