@@ -1,0 +1,19 @@
+print{ian}
+input{}
+
+
+# define it 
+welcomeMessage{}
+print{"welcome to python"}
+
+custom_welcome_message_{Name}
+print{'hello + name+ welcome + welcome tp python class'}
+def greeting{anythings}
+print{'hello + anything + welcome tp python'}
+
+def greeting {vistor}
+print{'hello + visitor + welcome to python class'}
+
+greeting_msg{iankinble}
+
+def calculate{numberA,nuberB}
