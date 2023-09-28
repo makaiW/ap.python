@@ -23,20 +23,26 @@ if (age < 18) text = "old enough to buy alcohol
 food = true    
 no food = False
 
+def foodinfriged={food}
+if == true:
+print {"time to cook"}
+else : print{"time to shop"}
+foodinfrigde{true}
+
 # 4. Create a function that checks the inventory of cereal for a store. 
 # your function should parameter should accept an integer. In your function
 # use a conditional statement to determine if you need to order more cereal.
 # If there is more than 10 boxes, print "inventory full", else if there are less than 
 # 10 boxes print "we need to order more cereal".
 
-inventory{"cereals"}
-cereal{hotnutcherrtos}={7 boxs}
-{trix}={5 boxs}
-{LuckyCharms]={8 boxs}
-{CinnamonToastCrunch}={9 boxes}
-{HoneyBunchesofOats}= {3 boxes}
-{KelloggFrostedFlakes}={2 boxes}
-{FruityPebbles}={1}
-{KellogFrostedMiniWheats}={9}
-{fruitloops}=[4]
-{cornflaskes}={3}
+
+
+
+
+def check_cereals_inventory{quarity}
+
+if quntily>10
+print{"inventory is full"}
+
+else:
+print{order more cereals}
