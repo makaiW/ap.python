@@ -28,3 +28,15 @@ no food = False
 # use a conditional statement to determine if you need to order more cereal.
 # If there is more than 10 boxes, print "inventory full", else if there are less than 
 # 10 boxes print "we need to order more cereal".
+
+inventory{"cereals"}
+cereal{hotnutcherrtos}={7 boxs}
+{trix}={5 boxs}
+{LuckyCharms]={8 boxs}
+{CinnamonToastCrunch}={9 boxes}
+{HoneyBunchesofOats}= {3 boxes}
+{KelloggFrostedFlakes}={2 boxes}
+{FruityPebbles}={1}
+{KellogFrostedMiniWheats}={9}
+{fruitloops}=[4]
+{cornflaskes}={3}
