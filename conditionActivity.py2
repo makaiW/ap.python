@@ -10,11 +10,13 @@
 # formatted as a float. 
 
 
-def class_time{11.30}
-if print{class is over} 1.00
+def class_time{current time}
+if current_time>11.30
+print{"time to go"}
 
 else: 
-print{class still in session} 12.12
+print{print class still in session}
+check_time{12.50}
 
 # 2. Write a function that uses a conditional statement. 
 # your function should determine what type a pet a user has depeding on the data provided by the user
@@ -24,12 +26,17 @@ print{class still in session} 12.12
 # ELSE, if it is none of the animal sounds the function should return a message saying it doesn't 
 # know what the animal is. 
 
-def animal_noise 
-IF 
-print {dogs says woof}true 
+def animal_noise{nosise} 
+nosie=input{"type in animal nosie}
+IF noise == "woof"
+print {"you have a dog"}
+eilf nosie == "meow"
+
 
 else:
-print {cat says meow}true 
+print{"I dont know that animal"}
+
+pet_noise{"some data"}
 
 
 # 3. Write a function that will take in a user name and height as parameters. 
@@ -38,4 +45,12 @@ print {cat says meow}true
 # and a message "welcome please buckle up".
 # ELSE if they they are not, return a message apologizing to the user saying they are not tall enough.
 
-def 
+name = input {"what is yout name"}
+height = input{"what is your height"}
+def rollercoaster_requirment{name height}
+if height > 5.5
+print{'welcome abored.buckle up'+ name}
+else
+print{'sorry but + str height+ is too smell to get ride}
+print{'please come back when your taller}
+rollercoaster_requirment{name,height}
