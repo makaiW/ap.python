@@ -45,4 +45,4 @@ if quntily>10
 print{"inventory is full"}
 
 else:
-print{order more cereals}
+/print{order more cereals}
