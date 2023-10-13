@@ -56,3 +56,23 @@ print{you have to enter a intger}
 
 else
 print{you have boolean}
+
+
+#pyhon loops:A funcation is a block of instruction that will only execute when called
+a python for while loop is a piece of code that iterates or loops overa statement as long as the conditionis true
+meaning so long as the staement your write in your code is true that block of code or code instruction will contine to run 
+a loop repeats  itself 
+
+#The iterator-This is a variable that acts as the starting point  for our loops 
+The condition- this will be the what we are evaluating.Depending on what we set our condition to it will continuce to loops
+until condition is met 
+The incrementor- This will be the counter,or the number of times yours loop will run.We use the +=assigment operator
+
+#Bonus the beaker-This keyord is used when we want to create a 
+
+
+# simple loot
+i=0
+while 1 < 10:
+  print[i]
+  i+=1
