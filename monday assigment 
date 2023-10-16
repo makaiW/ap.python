@@ -1,0 +1,54 @@
+MONDAY ASYNC WORK REPORT - OCTOBER 16TH,2023.
+
+Do some research and find a piece of software that is built with Python. 
+The software can be a video game, a website, application, or new technology. Once you've found
+a program that was built with Python, conduct research create a report on what the software is,
+what it does, how the software was built, and most importantly how Python was used. 
+Your report should be atleast 700 words long. You will also need to provide
+citations for where you got your information - you may reference vidoes, 
+blogposts, websites, and articles. Please use MLA citation style.
+Your report will need atleast three (3) citations. 
+Your report will need to be submitted by the end of class.
+
+For your report, you may use a regular text file, just like how this file is formatted.
+text files are made using the .txt extnetion. 
+
+Example: iansReport.txt
+
+
+NO AI GENERATED RESOURCES/ LINKS 
+
+WHAT IS  MLA STYLE CITATION?
+MLA stands for Modern Language Association. As you go further in your academic, 
+and potentially professional career you'll need to conduct research and reference 
+where you got your information. 
+This is done for a variety of reasons, such as:
+- allows your reader to see where you got your information from.
+- gives credit to the people and organizations that have done the research.
+- protects the writer from claims of plagarizing their work. 
+
+MLA is written as followed:
+full name of the author, title of article/ video, date article was published, 
+website link for article/video
+
+Example:
+John Doe, "Article about code", the coding newspaper, 10 October, 2023.
+www.website.com/article
+
+website to reference for MLA style citation: 
+https://owl.purdue.edu/owl/research_and_citation/mla_style/mla_formatting_and_style_guide/mla_sample_works_cited_page.html
+
+
+
+
+The software that have a build in python I chose is instagram is a free photo and video sharing app available on iPhone and Android. People can upload photos or videos to our service and share them with their followers or with a select group of friends. They can also view, comment and like posts shared by their friends on Instagram.According to the link https://www.javatpoint.com/advantages-and-disadvantages-of-instagram instragram can be use of many things like the Instagram Direct feature allows users to chat privately with their friends, like, comment on, and favourites other users' posts. With just one click, users may post photos to one or more social networking platforms, including Twitter, Facebook, and Tumblr also producting  and promoting good,compacy sponsorship,and Utilizing fan membership and advertising to finance videos, among other thing.
+Regenesys Business School link https://www.regenesys.net/reginsights
+the-role-of-python-in-the-making-of-instagram. Instagram’s key objective is to be productive in massive data circumstances when utilizing Python for a huge scope. Instagram utilizes Python in one of the world’s biggest settings, operating it to carry out the business expected to serve 900 million dynamic users.
+ Python is an incredible, development language that is extremely used across web, frameworks and developer groups. When companies decide to build huge, high performing and responsive web applications, Python is a strong decision. It’s trusted by developers at the biggest tech organizations. So is one among them. Instagram at present highlights the usage of the Django web application framework, which is composed completely in Python. For the web, by far most of the engineers have transitioned to using two well-known frameworks, Django and Flask. As the majority of us know, Instagram is the biggest photograph sharing online media platform to more than 500 million users, with 50 million pictures and videos transferred on Instagram on a daily basis.
+ The application permits its vast majority of users in all age groups to upload media that can be altered with filters and matched by hashtags and geotagging. Posts can be shared openly among followers. Users can view other users trending content and post it to their feed. Users can like and share photographs and videos. Instagram has multiplied in size throughout the most recent two years and as of late crossed 500 million users, so there arises a solid need to expand efficiency and speed with the goal that their services can keep on scaling easily.To help the scaling and efficiency, engineers at Instagram have created static sort checkers using Python and Pyre, which Instagram uses to investigate its servers. That is the reason Instagram engineers have created and used many modules for Python and used Python’s beyond-the-border capabilities. Also, Instagram uses Python for fast iterations as it hardly takes a moment to restart after testing new features. In the past year, Instagram has made efficiency and speed its top priority by engaging in Django tiers. Django is based on Python and is a free and open-source web application development framework. A framework means a bunch of components that assist you with creating sites quicker and simpler. error bugs, Instagram uses Sentry which is an open-source Django application composed by the group. Django Object Relational Model is reassuringly secure and exceedingly scalable and can deal with an information base of 5 million users thus becoming the core of Instagram by using integrated services of MVT architecture which also has an extensible authentication system.So, the above are some of Python’s capabilities in Instagram, the powerful tool built in Python.Here InstaPy works on the Page Object Pattern. Page Object Model is a framework design where the centre spotlight is on lessening code duplication and minimization of the exertion engaged with code update/support.
+
+Under the Page Object Model, page classes are made for every one of the pages that are a piece of the Automation Model. Instagram also uses the Streamlit library to create python apps with the minimum effort since its professional with beautiful UI designs. We can also get descriptive statistics about the user’s profile like the most consistent hashtags, the number of posts liked and so on.
+
+
+
+
