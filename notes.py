@@ -76,3 +76,29 @@ i=0
 while 1 < 10:
   print[i]
   i+=1
+
+
+#while loops 
+camravision = 0 
+while camrasenor == true
+print["no one in sight"]
+peopleinsight = input{is there anyone in sight? enter 1 if yes 2 if no }
+if sightsensor == yes
+pr
+break
+
+
+areClothesdry = false
+ while dryersensor
+ print{keep drying clothes}
+ dryclothes = input {are the clothes dry? enter y for yes n for no}
+ if dryClothessensor== y 
+ print{"stop the dryer clothes are dry"}
+ break
+
+ washer_timer= int{input{"how long do you want to wash your clothes?"}
+ while washer_timer >= 0:
+ print {'clothes are still washing'}
+
+ Washer_timer -= 1 
+ print{'clothes are washed'}
