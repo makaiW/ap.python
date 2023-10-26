@@ -13,18 +13,30 @@
 
 #while loops 
 camravision = 0 
-while camrasenor == true
+while camrasenativity== true
 print["no one in sight"]
 peopleinsight = input{is there anyone in sight? enter 1 if yes 2 if no }
-if sightsensor == yes
-pr
+if camrasenativitly  == yes
 break
 
+def camrascanner
+while objectSpotted == false  
+print{'scanning area'}
+objectSpotted = boul{input{'is there an object here?'}
+       print{'OBJECT DETECTED SOUNDING ALARM!!!'}              
 
-printer
-while int{input{"12 papers"} 
-    printer>=0
-print{"print papers"}
-
-stopLight 
-while
+printer=1
+numberOfdoccs= input{how many copies do you want to print?}
+ while printer<= numberOfdocs
+ print{print documents.exe'}
+ printer +=1
+ 
+ 
+ stop= 'red light'
+ go = 'green light'
+ def stoplight{}:
+ while i>30
+ print{'count down' +str [1}
+ 1+=1
+ print{Stop}
+ stopLight{}
