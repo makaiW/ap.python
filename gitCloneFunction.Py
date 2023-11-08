@@ -9,3 +9,4 @@ else { the kids isnt here they stay "silnce"}
 while print{listOfname}
 print{ if all the kids are here say "here"}
 print{if kids are not here they "stay slinced" }
+input{everyone is here}

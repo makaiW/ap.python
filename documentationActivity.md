@@ -22,16 +22,16 @@ This assignment will must be submitted no later than 11:59pm today (11/1/2023) t
 
 
 
-
+###Heading level 1 
 Name: Void
 team: Jaseil Lightfoot & Makai Whyte
 GitHub link: https://github.com/newgod215/Void/tree/d63099d0a0a7d15c3e247414172060e514fb78f4
 installation: console game shop
 contribute: playing the game and showing support.
 
-(#players will be able to join the game with the mindset of beating the game called the void
-#the void is a game based on war and power. Join the game you will be given the choice to gain the power system based on your way
-#of joining the game such as (Warden, Warlord, and Berserker) features) based on the power system of (vitality, strength, and, weapons) features).
+###heading 2 (#players will be able to join the game with the mindset of beating the game called the void
+  the void is a game based on war and power. Join the game you will be given the choice to gain the power system based on your way
+ ###heading 3 of joining the game such as (Warden, Warlord, and Berserker) features) based on the power system of (vitality, strength, and, weapons) features).
 #As you join In the Void you will be able to (gain levels)features) and power with every step you take. You can rest, hunt, travel, and build your player's stats.
-#The max level you can get in the game is 50-100 at every 20 levels you will need to beat a boss to advance to the next world. With every #level you gain, you will be given a random weapon.
-#The game will contain a saving system. #You will be able to see what you gained in the last few levels #You can check your status and see what you want to edit.) description
+### heading 4 The max level you can get in the game is 50-100 at every 20 levels you will need to beat a boss to advance to the next world. With every #level you gain, you will be given a random weapon.
+### heading 5 The game will contain a saving system. #You will be able to see what you gained in the last few levels #You can check your status and see what you want to edit.) description
