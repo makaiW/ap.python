@@ -1,0 +1,12 @@
+python movie guessing game 
+
+def {movie:rush hour}
+movieguessinggame-{user guess a  movie}
+while i>5 
+if {you guess the answers right you win}
+print {hint:this movie had 3 movies of it}
+print {hint: this movie was one of the funniest of its time }
+print {hint:this movie have chris tucker in it}
+print {this movie took place in tokeyo}
+print{this movie came out in 1998}
+else {answer wrong you lose }
