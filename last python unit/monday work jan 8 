@@ -1,0 +1,19 @@
+List and explain three 3 reasons why programmers write documentation.
+Help developers understand the code and mae it easlier for them to update there documentation 
+
+
+2. Describe three (3) negative outcomes that could happen if a programmer has bad or no documentation.
+when a programmer or coder do program to get things done faster without thinking much about future changes and ignoring the possibility of other developers touching the code
+
+3. You have been hired as an engineer at a local grocery store a program the will remove apples from users shopping cart. Create a function that when a users shopping cart list is passed into the function it will remove the "apples" and return the new updated shopping list. You can choose to solve this problem in anyway you see fit. 
+
+{ShoppingList}items{steak,eggs,milks,breads,cereals,apple }
+if{item not on the list put it back}
+else{get all items pay and leave the store}
+print{remove apple from shoppingList}
+print {New shoppinglist} items{steak,egg,milks,bread,cereal}
+print if {is everything on the list in the cart?}
+print {yes,check out}
+print else{no,cant checkout yet} 
+4. Once you have completed the coding segment for question number 3, please clearly explain how you went about solving this problem and why you chose to solve to solve it that way.
+i went by making a shopping list and items in this shopping list and i added a if funcation saying if the items on this list is in the cart checkout and if it wasnt put something back and i added apple and rinted to remove the apple from the shoppingList then made a new shopping list without the apple then print it to ceck out when everything is checked.
